@@ -41,17 +41,18 @@ Starting off the tutorial process with:
 - On Github I created a new repository, naming it _kayladtaylor-github._
 - Within I created a _index.md_ file, I copied and pasted Dr. Graham's example of what to write within:
     "_## My Quick Static Site_
-    _It reads [markdown](https://www.markdownguide.org/) and turns it into html._
+    _It reads [markdown](https://www.markdownguide.org/) 
+    and turns it into html._
     _![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)_"
 
-  - I did get a little confused and struggled for a solid 5 minutes at the next part. We're asked to click the gear icon, however there are 2 gear icons. One for _settings_ and one beside the _about_, I did not notice the one beside the _settings_ for approximately 5 minutes. However, afterwards I found where I needed to go, scrolled down to pages and selected a theme.
+  - I did get a little confused and struggled for a solid 5 minutes at the next part. We're asked to click the gear icon, however there are 2 gear icons. One for _settings_ and one beside the _about_, I did not notice the one beside the _settings_ for approximately 5 minutes. However, afterwards I found where I needed to go, scrolled down to pages and selected a theme. ![githubss](githubSS.png)
 
 
   2. I wanted to try something that was a little more challenging for my final product, so I decided to use _Hugo_ in oder to generate a site.
   - I started out by installing _Homebrew._ The installation page made it sound like this would be super easy- and in hindsight it actually was, however I ran into some confusion.
   - _Homebrew_ gives you an installation code to run through _terminal,_ I copied and pasted it. Then, it came up with this message:
-    "Checking for `sudo` access (which may request your password)."
-      - At first I entered my computer login password and it came up as incorrect, so I looked clicked the link to _installation options._ The first thing that comes up says that the script is so that you don't need to use sudo and further down the line said sudo is bad. So I for the life of me could not understand why I was being asked for _sudo_ access. I looked through the _discord channel_ and didn't find anything, I didn't want to reach out since it is currently 1:03 AM and I want to be able to find a solution more quickly. So, I took to _google!_ The first thing to come up was a person asking the [same question](https://stackoverflow.com/questions/59594875/why-is-the-terminal-prompt-asking-for-a-password-when-i-try-to-install-homebrew) I had in public form called "_stack overflow._" A person answered saying it required the password for the macOS account. It worked!
+    "Checking for `sudo` access (which may request your password)." ![homebrewSS](homebrewSS.png)
+     - At first I entered my computer login password and it came up as incorrect, so I looked clicked the link to _installation options._ The first thing that comes up says that the script is so that you don't need to use sudo and further down the line said sudo is bad. So I for the life of me could not understand why I was being asked for _sudo_ access. I looked through the _discord channel_ and didn't find anything, I didn't want to reach out since it is currently 1:03 AM and I want to be able to find a solution more quickly. So, I took to _google!_ The first thing to come up was a person asking the [same question](https://stackoverflow.com/questions/59594875/why-is-the-terminal-prompt-asking-for-a-password-when-i-try-to-install-homebrew) I had in public form called "_stack overflow._" A person answered saying it required the password for the macOS account. It worked!
 
 - The download process took awhile!
 - Now that _Homebrew_ is installed I am entering the code: "_brew install hugo_" then "_hugo version_" in order to verify that it installed for which it "replied": _hugo v0.83.1+extended darwin/amd64 BuildDate=unknown_ which I am hoping means everything is good.
@@ -110,6 +111,8 @@ Another day, and another thing not going my way. As stating above, I was hoping 
 
 - Mapping out the names on my tree gives an idea what my project could have looked like if I had more time.
 
-- Unfortunately, the points I plotted on the map did not stay where I placed them, the image stretched, so they are no longer on the tree.
+- Unfortunately, the points I plotted on the map did not stay where I placed them, the image stretched, so they are no longer on the tree. So virtually nothing went right during this project. ![mapping](mapping.png)
 
 - [storymaps](https://uploads.knightlab.com/storymapjs/235cad8d362fa17c590e91ad02d4c71f/the-growth-of-feminism/index.html)
+
+- However, I will celebrate one win during this assignment: I finally got the images to work on github again!
