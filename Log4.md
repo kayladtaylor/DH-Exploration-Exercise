@@ -116,3 +116,5 @@ Another day, and another thing not going my way. As stating above, I was hoping 
 - [storymaps](https://uploads.knightlab.com/storymapjs/235cad8d362fa17c590e91ad02d4c71f/the-growth-of-feminism/index.html)
 
 - However, I will celebrate one win during this assignment: I finally got the images to work on github again!
+
+- **Last but not least:** I could not get my blog post to upload. I searched the hugo website, I googles, I watched the youtube videos. Nothing worked. ![BlogSS](BlogSS.png)
